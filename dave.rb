@@ -2,8 +2,8 @@ class Dave < Formula
   desc "Simple & intuitive command line utility to store cheat sheet snippets"
   homepage "https://github.com/crocodile/smart-snippets"
   url "https://github.com/crocodile/smart-snippets/raw/master/archive/smart-snippets.tar.gz"
-  sha256 "b6978e3c204cd3b218514a780cf1b036e14443036c75898e5e4996f198d3fe88"
-  version "1.1.5"
+  sha256 "28eb76c059d5773368ef16b644bf7dc3a9e631d8b19e14c40db944a8de64cc5b"
+  version "1.1.6"
 
   depends_on "curl"
 
